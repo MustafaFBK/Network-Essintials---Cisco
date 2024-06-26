@@ -2,7 +2,7 @@
 
 The internet is a global network of interconnected networks that operates on common standards to exchange information. It is not owned by any individual or group, and it enables users to share information through various media, such as telephone wires, fiber-optic cables, wireless transmissions, and satellite links. Everything accessed online, from social media sites to email and online courses, is part of this vast network, facilitating countless daily interactions for users worldwide.
 
-## Questions and Answers in Details
+## Questions and Answers in Detail
 
 1. **Who owns the internet?**
    - The internet is not owned by any individual or group.
