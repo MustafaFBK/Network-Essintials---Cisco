@@ -1,6 +1,6 @@
 ## Conclusion
 
-Data is fundamental to our digital world, representing values in various forms such as numbers, text, images, and more. It encompasses personal records, interactions, and information that individuals generate or interact with daily. Networks play a crucial role in transmitting this data, facilitating communication, storage, and accessibility across different platforms and devices. Understanding the types of personal data—volunteered, observed, and inferred—helps to categorize how information is generated, shared, and utilized in digital environments.
+Data is fundamental to our digital world, representing values in various forms such as numbers, text, images, and more. It encompasses personal records, interactions, and information that individuals generate or interact with daily. Networks play a crucial role in transmitting this data, facilitating communication, storage, and accessibility across different platforms and devices. Understanding the types of personal data-volunteered, observed, and inferred-helps to categorize how information is generated, shared, and utilized in digital environments.
 
 ## Questions and Answers in Detail
 
